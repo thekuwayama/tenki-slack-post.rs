@@ -40,7 +40,7 @@ ARGS:
 $ tenki_slack_post xoxp-xxxxxxxxxxxx-xxxxxxxxxxxx-xxxxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx "#channel_name"
 ```
 
-![post](post.png)
+<img src="post.png" alt="post" width="400"/>
 
 
 ## License
